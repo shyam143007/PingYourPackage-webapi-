@@ -1,0 +1,2 @@
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYourPackage.API.WebHost\obj\Debug\PingYourPackage.API.WebHost.csprojAssemblyReference.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYourPackage.API.WebHost\obj\Debug\PingYourPackage.API.WebHost.csproj.CoreCompileInputs.cache

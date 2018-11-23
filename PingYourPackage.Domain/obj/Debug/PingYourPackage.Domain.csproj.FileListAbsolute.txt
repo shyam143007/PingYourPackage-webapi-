@@ -1,0 +1,14 @@
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\PingYougPackage.Domain.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\PingYougPackage.Domain.pdb
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYourPackage.Domain.csprojAssemblyReference.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYourPackage.Domain.csproj.CoreCompileInputs.cache
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYougPackage.Domain.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYougPackage.Domain.pdb
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\PingYougPackage.Domain.dll.config
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\EntityFramework.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\EntityFramework.xml
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYourPackage.Domain.csproj.CopyComplete
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYougPackage.Domain.Migrations.FirstMigration.resources
+C:\Users\syeraboji\source\repos\StudyMaterial\PingYourPackage\PingYougPackage.Domain\obj\Debug\PingYourPackage.Domain.csproj.GenerateResource.cache
