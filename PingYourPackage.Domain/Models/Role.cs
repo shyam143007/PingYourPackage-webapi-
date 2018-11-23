@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace PingYougPackage.Domain.Models
+namespace PingYourPackage.Domain.Models
 {
     public class Role : IEntity
     {
@@ -11,6 +10,7 @@ namespace PingYougPackage.Domain.Models
         public Guid Key { get; set; }
 
         [Required]
+        [StringLength(50)]
         public string Name { get; set; }
 
         public virtual ICollection<UserInRole> UserInRoles { get; set; }

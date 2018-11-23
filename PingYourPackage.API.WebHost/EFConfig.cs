@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using PingYourPackage.Domain.Migrations;
+using System.Data.Entity.Migrations;
 
 namespace PingYourPackage.API.WebHost
 {
@@ -13,8 +11,10 @@ namespace PingYourPackage.API.WebHost
         }
 
         private static void RunMigrations()
-        {
-           //var efMigrations = new PingYourPackage.Domain
+        {            
+            var efMigrationSettings = new Configuration();
+            var efMigrator = new DbMigrator(efMigrationSettings);
+            efMigrator.Update();
         }
     }
 }

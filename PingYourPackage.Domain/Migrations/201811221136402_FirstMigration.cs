@@ -1,4 +1,4 @@
-namespace PingYougPackage.Domain.Migrations
+namespace PingYourPackage.Domain.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;

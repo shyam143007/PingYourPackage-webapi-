@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace PingYougPackage.Domain.Models
+namespace PingYourPackage.Domain.Models
 {
     public class User : IEntity
     {
@@ -10,8 +10,11 @@ namespace PingYougPackage.Domain.Models
         public Guid Key { get; set; }
 
         [Required]
+        [StringLength(50)]
         public string Name { get; set; }
 
+        [Required]
+        [StringLength(320)]
         public string Email { get; set; }
 
         [Required]
@@ -26,11 +29,14 @@ namespace PingYougPackage.Domain.Models
 
         public DateTime? LastUpdatedOn { get; set; }
 
+        public virtual Affiliate Affiliate { get; set; }
+
         public virtual ICollection<UserInRole> UserInRoles { get; set; }
 
         public User()
         {
             UserInRoles = new HashSet<UserInRole>();
+            Affiliate = new Affiliate();
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace PingYougPackage.Domain.Models
+namespace PingYourPackage.Domain.Models
 {
     public class UserInRole : IEntity
     {

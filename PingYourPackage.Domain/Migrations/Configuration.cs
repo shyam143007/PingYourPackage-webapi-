@@ -1,17 +1,17 @@
-namespace PingYougPackage.Domain.Migrations
+namespace PingYourPackage.Domain.Migrations
 {
-    using PingYougPackage.Domain.Models;
+    using PingYourPackage.Domain.Models;
     using System;
     using System.Data.Entity.Migrations;
 
-    public sealed class Configuration : DbMigrationsConfiguration<PingYougPackage.Domain.EntitiesContext>
+    public sealed class Configuration : DbMigrationsConfiguration<PingYourPackage.Domain.EntitiesContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(PingYougPackage.Domain.EntitiesContext context)
+        protected override void Seed(PingYourPackage.Domain.EntitiesContext context)
         {
             //  This method will be called after migrating to the latest version.
 
